@@ -2,8 +2,7 @@
 Hi, I’m Polina — a Frontend Developer from Russia and I’m open to new opportunities! 
 
 - 👀 I’m currently focusing on Web
-- 🌱 I’m currently living in Turkey
-- 🌟 My stack - JS, React, Node,js, HTML, CSS 
+- 🌟 My stack - JS, React, Node,js, HTML, CSS/SCSS
 
 ## Get in touch
 - Email: bad.black.neko.xx@gmail.com
